@@ -1,0 +1,17 @@
+# Terraform
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+*.tfvars
+
+# Python
+__pycache__/
+*.pyc
+
+# 環境変数
+.env
+
+# OS
+.DS_Store
+Thumbs.db
